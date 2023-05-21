@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brax Wong</h1>
 <h3 align="center">A passionate software developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on [DanceForMe](https://projects.cs.nott.ac.uk/comp2002/2022-2023/team14_project)
+- 🔭 I’m currently working on [DanceForMe](https://github.com/BraxWong/DanceForMe)
 
 - 🌱 I’m currently learning **Flutter and React**
 
-- 👯 I’m looking to collaborate on [Solidity](https://github.com/ethereum/solidity)
+- 👯 I’m looking to collaborate on [Drager](https://www.draeger.com/en_aunz/Home)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
