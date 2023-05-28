@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on [Drager](https://www.draeger.com/en_aunz/Home)
 
+- 💼 I'm currently looking for industrial placement for 2023-2024
+
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
 - 💬 Ask me about **C++, C, and JAVA**
