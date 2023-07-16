@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
-- 💬 Ask me about **C++, C, and JAVA**
+- 💬 Ask me about **C++, C, Python, and JAVA**
 
 - 📫 How to reach me **ghostenjob@gmail.com**
 
