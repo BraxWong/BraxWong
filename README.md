@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brax Wong</h1>
 <h3 align="center">A passionate software developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on [DanceForMe](https://github.com/BraxWong/DanceForMe)
+- 🔭 I’m currently working on [Bitskin's CLI Tool](https://github.com/BraxWong/Bitskin-CLI)
 
 - 🌱 I’m currently learning **Flutter and React**
 
-- 👯 I’m looking to collaborate on [Drager](https://www.draeger.com/en_aunz/Home)
+- 👯 I’m currently working at [Draeger Safety UK Ltd](https://www.draeger.com/en_uk/Contact-Finder/-Draeger-Safety-Uk-Ltd-Blyth/11c9b120-4ccd-4117-913b-ae757d450360)
 
-- 💼 I'm currently looking for industrial placement for 2023-2024
+- 💼 I'm currently looking for junior software engineer position for 2024-2025
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
