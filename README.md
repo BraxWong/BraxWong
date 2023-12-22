@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Bitskin's CLI Tool](https://github.com/BraxWong/Bitskin-CLI)
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **NodeJS and Swift**
 
 - 👯 I’m currently working at [Draeger Safety UK Ltd](https://www.draeger.com/en_uk/Contact-Finder/-Draeger-Safety-Uk-Ltd-Blyth/11c9b120-4ccd-4117-913b-ae757d450360)
 
-- 💼 I'm currently looking for junior software engineer position for 2024-2025
+- 💼 I'm currently looking for a junior software engineer position for 2024-2025
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
