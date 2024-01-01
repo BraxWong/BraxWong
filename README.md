@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brax Wong</h1>
 <h3 align="center">A passionate software developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on [Bitskin's CLI Tool](https://github.com/BraxWong/Bitskin-CLI)
+- 🔭 I’m currently working on [BitskinsAPI-Web](https://github.com/BraxWong/BitskinsAPI-Web)
 
 - 🌱 I’m currently learning **NodeJS and Swift**
 
