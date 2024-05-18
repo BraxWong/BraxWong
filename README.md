@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brax Wong</h1>
 <h3 align="center">A passionate software developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on [BitskinsAPI-Web](https://github.com/BraxWong/BitskinsAPI-Web)
+- 🔭 I’m currently working on [Daily-Leetcode-Randomizer](https://github.com/BraxWong/Daily-Leetcode-Randomizer)
 
-- 🌱 I’m currently learning **NodeJS and Swift**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m currently working at [Draeger Safety UK Ltd](https://www.draeger.com/en_uk/Contact-Finder/-Draeger-Safety-Uk-Ltd-Blyth/11c9b120-4ccd-4117-913b-ae757d450360)
 
-- 💼 I'm currently looking for a junior software engineer position for 2024-2025
+- 💼 I'm currently looking for a junior software engineer position starting in 2025
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
