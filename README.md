@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m currently working at [Draeger Safety UK Ltd](https://www.draeger.com/en_uk/Contact-Finder/-Draeger-Safety-Uk-Ltd-Blyth/11c9b120-4ccd-4117-913b-ae757d450360)
+- 👯 I’m currently working at the [University of Nottingham](https://www.nottingham.ac.uk/computerscience/)
 
 - 💼 I'm currently looking for a junior software engineer position starting in 2025
 
