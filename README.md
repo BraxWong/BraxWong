@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m currently working at the [University of Nottingham](https://www.nottingham.ac.uk/computerscience/)
+- 👯 I’m currently studying at the [University of Nottingham](https://www.nottingham.ac.uk/computerscience/)
 
 - 💼 I'm currently looking for a junior software engineer position starting in 2025
 
