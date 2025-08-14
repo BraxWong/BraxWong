@@ -5,17 +5,15 @@
 
 - 🌱 I’m currently learning **Kivy**
 
-- 👯 I’m currently studying at the [University of Nottingham](https://www.nottingham.ac.uk/computerscience/)
-
 - 💼 I'm currently looking for a junior / graduate software engineer position starting in 2025
 
 - 👨‍💻 All of my projects are available at [https://github.com/BraxWong](https://github.com/BraxWong)
 
-- 💬 Ask me about **C++, C, Python, and JAVA**
+- 💬 Ask me about **C++, C, Python, and C#**
 
 - 📫 How to reach me **wongbrax@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j6XHJry1HBjWCRlz47HKUy3MVuIV-L0z/view?usp=sharing](https://drive.google.com/file/d/1j6XHJry1HBjWCRlz47HKUy3MVuIV-L0z/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14w9eRQT4ZG44Zl0jBnaPn4LUIuFoQaFU/view?usp=sharing](https://drive.google.com/file/d/14w9eRQT4ZG44Zl0jBnaPn4LUIuFoQaFU/view?usp=sharing)
 
 - ⚡ Fun fact **I can twitch my ears without using my hands**
 
